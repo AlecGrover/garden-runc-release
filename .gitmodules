@@ -38,8 +38,8 @@
 	path = src/github.com/golang/protobuf
 	url = https://github.com/golang/protobuf
 	branch = master
-[submodule "src/code.cloudfoundry.org/grootfs"]
-	path = src/code.cloudfoundry.org/grootfs
+[submodule "src/grootfs"]
+	path = src/grootfs
 	url = https://github.com/cloudfoundry/grootfs
 	branch = master
 [submodule "src/github.com/containerd/containerd"]

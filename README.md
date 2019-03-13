@@ -92,7 +92,7 @@ Some of Garden-runC's important components currently are:
 * [Guardian](https://github.com/cloudfoundry/guardian) found under
    `src/code.cloudfoundry.org/guardian` is the Garden backend.
 * [GrootFS](https://github.com/cloudfoundry/grootfs) found under
-   `src/code.cloudfoundry.org/grootfs` downloads and manages
+   `src/grootfs` downloads and manages
    root filesystems.
 * [GATS](https://github.com/cloudfoundry/garden-integration-tests)
    found under `src/code.cloudfoundry.org/garden-integration-tests`

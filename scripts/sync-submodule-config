@@ -21,7 +21,7 @@ function guardian_deps {
 }
 
 function grootfs_deps {
-  echo "code.cloudfoundry.org/grootfs"
+  echo "grootfs"
 }
 
 function runc_deps {
